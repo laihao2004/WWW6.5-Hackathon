@@ -55,7 +55,9 @@ src/
 ├── services/         # 业务封装 (IPFS_Uploader, Avalanche_Relayer)
 ├── hooks/            # 自定义状态钩子 (useRescueFlow, useOnChainProof)
 └── types/            # 领域模型定义 (RescueCase, VolunteerRole)
+
 ---
+
 ## 🛠️ Tech Stack丨技术栈
 
 ### 前端
